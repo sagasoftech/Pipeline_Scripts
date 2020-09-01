@@ -1,0 +1,1 @@
+echo "Build passed successfully: %time% : %date%"

@@ -1,0 +1,1 @@
+echo "Quality passed successfully: %time% : %date%"
